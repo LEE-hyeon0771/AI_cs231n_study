@@ -16,6 +16,9 @@
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 |             **이현<br>(Developer)<br>연세대학교 미래캠퍼스**              |             **유민준<br>(Developer)<br>연세대학교 미래캠퍼스**                                   |                 **김가을<br>(Developer)<br>연세대학교 미래캠퍼스**             |
 
+- [이현 Blog](https://pred0771.tistory.com/)
+- [유민준 Blog](https://helloparzival.tistory.com/)
+- [김가을 Blog](https://velog.io/@kimgaeul02)
 
 ### 개발환경
 ![주피터 노트북](https://user-images.githubusercontent.com/84756586/223326627-f6237951-b129-40d1-8e9d-e8c97ee4e653.png)
