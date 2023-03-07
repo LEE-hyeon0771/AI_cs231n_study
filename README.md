@@ -15,12 +15,14 @@
 - [cs231n 강의노트 & 실라버스](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR0m-M5Q4rgQIgGuQnZv_syF0sBS-A6juHc0WLN5URNBRkMJiTiDda2)
 
 ### study 참여 인원
-| ![](https://github.com/LEE-Hyeon0771.png) | ![](https://github.com/joon56.png) | ![](https://github.com/kimgaeul02.png) |
-| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-|             **이현<br>(Developer)<br>연세대학교 미래캠퍼스**              |             **유민준<br>(Developer)<br>연세대학교 미래캠퍼스**                                   |                 **김가을<br>(Developer)<br>연세대학교 미래캠퍼스**             |
+| ![](https://github.com/LEE-Hyeon0771.png) | ![](https://github.com/joon56.png) | ![](https://github.com/hoon10) | ![](https://github.com/kimgaeul02.png) |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+|             **이현<br>(Developer)<br>연세대학교 미래캠퍼스**              |             **유민준<br>(Developer)<br>연세대학교 미래캠퍼스**        |      
+              **최훈<br>(Developer)<br>연세대학교 미래캠퍼스**              |             **김가을<br>(Developer)<br>연세대학교 미래캠퍼스**        |
 
 - [이현 Blog](https://pred0771.tistory.com/)
 - [유민준 Blog](https://helloparzival.tistory.com/)
+- [최훈 Blog](https://hoonsbooks.tistory.com/1)
 - [김가을 Blog](https://velog.io/@kimgaeul02)
 
 ### 개발환경
