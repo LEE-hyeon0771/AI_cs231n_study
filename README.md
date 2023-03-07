@@ -2,7 +2,10 @@
 
 ```
 1. cs231n 강의 정리 study
-2. 매주 강의 수강 후 블로그 정리 및 study 학습
+
+2. 매주 강의 수강 후 블로그 정리 및 study를 통한 학습 내용 발표
+
+3. cs231n 강의 정리 및 Kaggle Competition 코드 리뷰
 ```
 [컨텐츠 notion](https://www.notion.so/study-bcb027c3d8ec4db69ff6174cc844ddf0)
 
