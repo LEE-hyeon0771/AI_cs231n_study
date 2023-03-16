@@ -27,3 +27,6 @@
 ### 개발환경
 ![주피터 노트북](https://user-images.githubusercontent.com/84756586/223326627-f6237951-b129-40d1-8e9d-e8c97ee4e653.png)
 ![python](https://user-images.githubusercontent.com/84756586/223326715-7ec5128f-d14e-4f2d-948c-13ac7627ab16.png)
+
+
+### 강의 summary 블로그
