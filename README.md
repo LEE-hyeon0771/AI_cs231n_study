@@ -30,3 +30,4 @@
 
 
 ### 강의 summary 블로그
+- [2강 Image Classification](https://pred0771.tistory.com/150)
