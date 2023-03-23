@@ -31,4 +31,4 @@
 
 ### 강의 summary 블로그
 - [2강 Image Classification](https://pred0771.tistory.com/150)
-- [3강](https://pred0771.tistory.com/154)
+- [3강 Loss Function & Optimization](https://pred0771.tistory.com/154)
