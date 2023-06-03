@@ -32,3 +32,5 @@
 ### 강의 summary 블로그
 - [2강 Image Classification](https://pred0771.tistory.com/150)
 - [3강 Loss Function & Optimization](https://pred0771.tistory.com/154)
+- [4강 BackPropogation & Neural Networks](https://pred0771.tistory.com/172)
+- [5강 CNN](https://pred0771.tistory.com/175)
